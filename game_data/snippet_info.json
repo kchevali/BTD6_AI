@@ -1,0 +1,227 @@
+{
+    "TITLE": {
+        "type": "full_page"
+    },
+    "MAIN" : {
+        "type": "full_page"
+    },
+    "SETTINGS" : {
+        "type": "large_top_banner"
+    },
+    "JUKEBOX" : {
+        "type": "popup_banner"
+    },
+    "ACCOUNT_SETTINGS" : {
+        "type": "large_top_banner"
+    },
+    "LANGUAGE_SETTINGS" : {
+        "type": "full_page"
+    },
+    "HOTKEYS" : {
+        "type": "large_top_banner"
+    },
+    "UPDATE_NOTES" : {
+        "type": "large_top_banner"
+    },
+    "CREATOR_SUPPORT" : {
+        "type": "center_popup"
+    },
+    "TWITCH_INTEGRATION" : {
+        "type": "large_top_banner"
+    },
+    "SCREEN_SIZE" : {
+        "type": "right_settings_menu"
+    },
+    "ACHIEVEMENTS" : {
+        "type": "large_top_banner"
+    },
+    "SHOP" : {
+        "type": "large_top_banner"
+    },
+    "TROPHY_STORE" : {
+        "type": "large_top_banner"
+    },
+    "INVENTORY" : {
+        "type": "large_top_banner"
+    },
+    "DAILY_REWARD" : {
+        "type": "center_popup"
+    },
+    "FRIENDS" : {
+        "type": "large_top_banner"
+    },
+    "POWERS" : {
+        "type": "large_top_banner"
+    },
+    "INSTA_MONKEYS" : {
+        "type": "large_top_banner"
+    },
+    "MONKEY_KNOWLEDGE" : {
+        "type": "large_top_banner"
+    },
+    "PRIMARY_KNOWLEDGE" : {
+        "type": "large_top_banner"
+    },
+    "MILITARY_KNOWLEDGE" : {
+        "type": "large_top_banner"
+    },
+    "MAGIC_KNOWLEDGE" : {
+        "type": "large_top_banner"
+    },
+    "SUPPORT_KNOWLEDGE" : {
+        "type": "large_top_banner"
+    },
+    "HEROES_KNOWLEDGE" : {
+        "type": "large_top_banner"
+    },
+    "POWERS_KNOWLEDGE" : {
+        "type": "large_top_banner"
+    },
+    "PRIMARY_MONKEYS" : {
+        "type": "full_page"
+    },
+    "MILITARY_MONKEYS" : {
+        "type": "full_page"
+    },
+    "MAGIC_MONKEYS" : {
+        "type": "full_page"
+    },
+    "SUPPORT_MONKEYS" : {
+        "type": "full_page"
+    },
+    "DART_MONKEY_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "BOOMERANG_MONKEY_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "BOMB_SHOOTER_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "TACK_SHOOTER_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "ICE_MONKEY_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "GLUE_GUNNER_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "SNIPER_MONKEY_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "MONKEY_SUB_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "MONKEY_BUCANEER_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "MONKEY_ACE_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "HELI_PILOT_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "MORTAR_MONKEY_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "DARTLING_GUNNER_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "WIZARD_MONKEY_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "SUPER_MONKEY_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "NINJA_MONKEY_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "ALCHEMIST_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "DRUID_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "BANANA_FARM_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "ENGINEER_MONKEY_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "SPIKE_FACTORY_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "MONKEY_VILLAGE_UPGRADE" : {
+        "type": "large_top_banner"
+    },
+    "HEROES" : {
+        "type": "full_page"
+    },
+    "BEGINNER_MAPS_0" : {
+        "type": "full_page"
+    },
+    "BEGINNER_MAPS_1" : {
+        "type": "full_page"
+    },
+    "BEGINNER_MAPS_2" : {
+        "type": "full_page"
+    },
+    "BEGINNER_MAPS_3" : {
+        "type": "full_page"
+    },
+    "INTERMEDIATE_MAPS_0" : {
+        "type": "full_page"
+    },
+    "INTERMEDIATE_MAPS_1" : {
+        "type": "full_page"
+    },
+    "INTERMEDIATE_MAPS_2" : {
+        "type": "full_page"
+    },
+    "INTERMEDIATE_MAPS_3" : {
+        "type": "full_page"
+    },
+    "ADVANCED_MAPS_0" : {
+        "type": "full_page"
+    },
+    "ADVANCED_MAPS_1" : {
+        "type": "full_page"
+    },
+    "ADVANCED_MAPS_2" : {
+        "type": "full_page"
+    },
+    "EXPERT_MAPS_0" : {
+        "type": "full_page"
+    },
+    "EXPERT_MAPS_1" : {
+        "type": "full_page"
+    },
+    "MONKEY_MEADOW" : {
+        "type": "full_page"
+    },
+    "TREE_STUMP" : {
+        "type": "full_page"
+    },
+    "TOWN_CENTER" : {
+        "type": "full_page"
+    },
+    "SCRAPYARD" : {
+        "type": "full_page"
+    },
+    "THE_CABIN" : {
+        "type": "full_page"
+    },
+    "RESORT" : {
+        "type": "full_page"
+    },
+    "BACK_BUTTON" : {
+        "type": "top_left_button"
+    },
+    "CHANGE_HERO_BUTTON" : {
+        "type": "bottom_left_button"
+    },
+    "FRIENDS_BUTTON" : {
+        "type": "top_right_button"
+    }
+}
