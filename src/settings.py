@@ -4,6 +4,7 @@ GAME_DATA_DIR = "game_data"
 SNIPPETS_DIR = os.path.join(GAME_DATA_DIR, "snippets")
 SNIPPET_INFO_PATH = os.path.join(GAME_DATA_DIR, 'snippet_info.json')
 SNIPPET_TYPES_PATH = os.path.join(GAME_DATA_DIR, 'snippet_types.json')
+BITMAP_DIR:str = os.path.join(GAME_DATA_DIR, "bitmaps")
 
 GAME_X1: int = 0
 GAME_Y1: int = 0
@@ -25,3 +26,10 @@ MONITOR_WIDTH: int = 1920
 MONITOR_HEIGHT: int = 1080
 MONITOR_X2: int = MONITOR_X1 + MONITOR_WIDTH
 MONITOR_Y2: int = MONITOR_Y1 + MONITOR_HEIGHT
+
+GRID_X1: int = 0
+GRID_Y1: int = 0
+GRID_WIDTH: int = 32
+GRID_HEIGHT: int = GRID_WIDTH * GAME_HEIGHT // GAME_WIDTH
+GRID_X2: int = GRID_X1 + GRID_WIDTH
+GRID_Y2: int = GRID_Y1 + GRID_HEIGHT
